@@ -4,6 +4,11 @@ Based upon a [blog post](https://peter-braun.org/de/2012/06/fibonacci-numbers-in
 
 As of Node v6.6.0, Node enables V8's TCO (tail call optimisation) support.  Strict mode must be used along with the ```--harmony_tailcalls``` flag for Node.
 
+## Installation
+```npm install```
+
+Installs performance-now package for outputting time taken in millis.
+
 ## Running
 To run the algorithm with TCO:
 
