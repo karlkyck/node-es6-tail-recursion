@@ -1,0 +1,15 @@
+{
+  "name": "node_es6_tail_recursion",
+  "description": "Tail recursion in ES6 using Node.js 6.6.0+",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=6.6.0"
+  },
+  "scripts": {
+    "noTail": "node app/fibTail.js",
+    "tail": "node --harmony_tailcalls app/fibTail.js"
+  },
+  "dependencies": {
+    "performance-now": "2.1.0"
+  }
+}
