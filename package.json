@@ -1,5 +1,5 @@
 {
-  "name": "node_es6_tail_recursion",
+  "name": "node-es6-tail-recursion",
   "description": "Tail recursion in ES6 using Node.js 6.6.0+",
   "version": "1.0.0",
   "engines": {
